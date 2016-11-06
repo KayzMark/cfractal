@@ -1,0 +1,27 @@
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe.config
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\bin\Debug\ASE_A1.pdb
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Form1.resources
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Properties.Resources.resources
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csproj.GenerateResource.Cache
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.exe
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.pdb
+d:\users\kayzmark\documents\visual studio 2015\Projects\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csprojResolveAssemblyReference.cache
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe.config
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.exe
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.pdb
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.pdb
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csprojResolveAssemblyReference.cache
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Form1.resources
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Properties.Resources.resources
+D:\Users\KayzMark\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csproj.GenerateResource.Cache
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe.config
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.exe
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.pdb
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.exe
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\bin\Debug\ASE_A1.pdb
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csprojResolveAssemblyReference.cache
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Form1.resources
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.Properties.Resources.resources
+D:\Users\kukor\Desktop\My Files\School\ASE-A\marcus\ASE_A1\ASE_A1\obj\Debug\ASE_A1.csproj.GenerateResource.Cache
